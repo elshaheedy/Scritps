@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# File: log_backup.py
+# File: Security Log Backup.py
 # Title: Enhanced Security Log Backup Script
 # Description: A script to backup security logs to a secure location with compression and retention policy.
 
